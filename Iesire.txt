@@ -1,0 +1,55 @@
+cuvant cheie - int
+identificator - e25
+separator - ;
+separator - ;
+literal string - "  /*ah'h'*/"
+literal caracter - '"'
+literal string - "'"
+literal caracter - '('
+identificator - void
+cuvant cheie - main
+operator( - (
+operator) - )
+separator - {
+separator - }
+separator - {
+cuvant cheie - if
+operator( - (
+operator( - (
+identificator - a
+operator++ - ++
+operator+ - +
+literal flotant - 12e3
+operator== - ==
+identificator - e12
+operator. - .
+identificator - e
+operator+ - +
+literal intreg - 12
+operator) - )
+operator* - *
+operator/ - /
+identificator - e20
+operator++ - ++
+operator+= - +=
+operator++ - ++
+literal flotant - 20e-3
+operator<<= - <<=
+literal intreg - 1
+operator) - )
+identificator - a
+operator* - *
+operator* - *
+identificator - p
+operator* - *
+operator/ - /
+operator++ - ++
+identificator - e
+operator+ - +
+literal intreg - 3
+separator - ;
+cuvant cheie - return
+literal intreg - 0
+separator - ;
+literal string - "jkhkjk      \"
+eroare - pozitita 253
